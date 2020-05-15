@@ -1,5 +1,4 @@
 # Apps Project
-In this project, I analyzed data about the Apple Store and Google Play Store apps with the goal of recommending an app profile that can be profitable for both markets. <br/>
 
 In this project, I pretend to be an incipient Data Analyst working for a company that builds Android and iOS mobile apps in English. These apps are then made available on Google Play Store and the iOS App Store. We only build apps that are free to download and install, and our main source of revenue is in-app ads. This means the revenue for any given app is mostly influenced by the number of users who use the app — the more users that see and engage with the ads, the better. 
 
@@ -10,3 +9,7 @@ I concluded that developing a practical app that incorporates certain level of f
 While I acknowledge that there can be no absolute correct recommendation, I believe exploring my recommendation might be worthwhile for the hypothetical company. <br/>
 
 -MO
+
+NB: NO SPECIALIZED MODULES OR LIBRARIES WERE USED FOR THIS PROJECT.
+It was meant to be particularly challenging for the nascent data analyst 
+
